@@ -9,5 +9,7 @@ The DS3 research group has a multidisciplinary team with specialties in a broad 
 The free and universal healthcare provided by the Catalan Health System to a catchment population of 7.5 million people is a privileged substrate for building evidence on the use of digital solutions for healthcare. We believe that, if used appropriately, these solutions can increase equity in healthcare provision.
 
 <p align="center">
-<img src="https://github.com/DS3-SISCAT/.github/blob/main/LogoDS3.png" width="60%">
+<img src="https://github.com/DS3-SISCAT/.github/blob/main/LogoDS3.png" width="40%">
+ 
  </p>
+
