@@ -7,3 +7,5 @@ The research activity of the DS3 group focuses on digital health, including the 
 The DS3 research group has a multidisciplinary team with specialties in a broad repertoire of scientific areas, such as computer science, mathematics, epidemiology, clinical research, public health, and implementation science.
 
 The free and universal healthcare provided by the Catalan Health System to a catchment population of 7.5 million people is a privileged substrate for building evidence on the use of digital solutions for healthcare. We believe that, if used appropriately, these solutions can increase equity in healthcare provision.
+
+![Banner](Logo_DS3.png)
