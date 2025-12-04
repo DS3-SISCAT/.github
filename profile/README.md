@@ -1,4 +1,4 @@
-## DS3-SisCat
+## DS3-SISCAT
 
 This is a public repository of scripts used in research projects of the research group **Digitalization for the Sustainability of the Healthcare System (DS3)**, which operates within the Catalan Healthcare System.
  
